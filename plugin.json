@@ -1,0 +1,9 @@
+{
+  "name": "deep-investigate",
+  "version": "1.0.0",
+  "description": "5-step deep investigation protocol for bugs and new features",
+  "author": "SPIL OCC Team",
+  "skills": [
+    "SKILL.md"
+  ]
+}
