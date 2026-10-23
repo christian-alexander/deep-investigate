@@ -12,7 +12,7 @@
 Tidak perlu menjalankan skrip terminal atau memikirkan path direktori OS. Cukup buka chat AI Coding Agent Anda (apapun aplikasinya dan OS-nya), lalu kirimkan pesan berikut:
 
 ```text
-Tolong pasang skill deep-investigate dari repository https://github.com/<username>/deep-investigate ke konfigurasi agent kamu agar aktif.
+Tolong pasang skill deep-investigate dari repository https://github.com/christian-alexander/deep-investigate.git ke konfigurasi agent kamu agar aktif.
 ```
 
 *(Ganti `<username>` dengan nama akun/organisasi GitHub Anda).*
